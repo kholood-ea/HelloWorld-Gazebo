@@ -1,0 +1,3 @@
+cmake ../ for building 
+make for making the library
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
